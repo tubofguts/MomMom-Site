@@ -1,0 +1,23 @@
+#main {
+    padding-top: 50px;
+    font-family: 'Noto Serif', serif;
+    text-align: center;    
+    align-items: center;
+    justify-content: center;
+       
+}
+
+#sub1 {
+    line-height: 75%;
+}
+
+#sub2 {
+    line-height: 75%;
+}
+
+body {
+    background-color: rgb(255, 250, 240);
+}
+p {
+    font-size:larger;
+}
